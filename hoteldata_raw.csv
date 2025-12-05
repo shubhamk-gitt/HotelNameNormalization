@@ -1,0 +1,101 @@
+record_id,source_system,hotel_name,address_line1,address_line2,city,state,country,postal_code,phone_number
+R001,GDS_A,Marriott Bangalore Outer Ring Road,Outer Ring Road,Doddanekundi,Bangalore,Karnataka,IN,560103,-12345667
+R002,OTA_B,Marriott ORR Blr - Outer Ring Rd,Outer Ring Rd,,Bengaluru,Karnataka,India,560103,-12345667
+R003,DIRECT_C,Hotel Marriot Bengaluru ORR,Outer Ring Road,,Bangalore,KA,IN,560103,-12345667
+R004,GDS_A,Holiday Inn Express Whitefield,ITPL Main Road,,Bangalore,Karnataka,IN,560066,-99998877
+R005,OTA_B,Holiday Inn Exp. Bengaluru Whitefield,ITPL Rd,Whitefield,Bengaluru,KA,India,560066,-99998877
+R006,DIRECT_C,Holiday Inn Express Blr-Whitefield,ITPL Main Rd,,Bangalore,Karnataka,IN,560066,-99998877
+R007,GDS_A,Hilton London Heathrow Airport,Heathrow Airport Terminal 4,,London,England,GB,TW6 3AF,-87589976
+R008,OTA_B,Hilton LHR T4,"Terminal 4, Heathrow Airport",,London,ENG,UK,TW6 3AF,-87589976
+R009,OTA_C,Hilton London Heathrow T4 Hotel,Terminal 4 Heathrow,Hounslow,London,England,GB,TW6 3AF,-87589976
+R010,GDS_A,Courtyard New York Times Square,114 W 40th St,,New York,NY,US,10018,-3910299
+R011,OTA_B,Courtyard NYC Times Sq,114 West 40th Street,,New York,New York,USA,10018,-3910299
+R012,OTA_C,Courtyard by Marriott Times Square NY,114 W. 40th St.,Midtown,New York,NY,US,10018,-3910299
+R013,GDS_A,Ibis Paris Montmartre 18ème,5 Rue Caulaincourt,,Paris,Île-de-France,FR,75018,-55305968
+R014,OTA_B,ibis Paris Montmartre 18th,5 Rue Caulaincourt,,Paris,Ile de France,France,75018,-55305968
+R015,DIRECT_C,Hotel Ibis Paris Montmartre,5 Rue Caulaincourt,Montmartre,Paris,IDF,FR,75018,-55305968
+R016,GDS_A,Park Hyatt Tokyo,3-7-1-2 Nishi-Shinjuku,Shinjuku-Ku,Tokyo,Tokyo,JP,163-1055,-53221156
+R017,OTA_B,Park Hyatt Hotel Tokyo,3-7-1-2 Nishi Shinjuku,Shinjuku,Tokyo,Tokyo Prefecture,Japan,1631055,-53221156
+R018,OTA_C,Tokyo Park Hyatt,3-7-1-2 NishiShinjuku,,Tokyo,Tokyo,JP,163-1055,-53221156
+R019,GDS_A,The Oberoi Udaivilas,Haridasji Ki Magri,Pichola,Udaipur,Rajasthan,IN,313001,-2433503
+R020,OTA_B,The Oberoi Udaivilās,Haridas Ji Ki Magri,Lake Pichola,Udaipur,RJ,India,313001,-2433503
+R021,GDS_A,Shangri-La Sydney,176 Cumberland Street,The Rocks,Sydney,NSW,AU,2000,-92505941
+R022,OTA_B,Shangri La Hotel Sydney,176 Cumberland St,The Rocks,Sydney,New South Wales,Australia,2000,-92505941
+R023,DIRECT_C,Sydney Shangri-La,176 Cumberland Street,,Sydney,NSW,AU,2000,-92505941
+R024,GDS_A,Hotel Green Valley,Main Bazaar Road,,Manali,Himachal Pradesh,IN,175131,-224144
+R025,OTA_B,Green Valley Hotel Manali,Main Bzr Rd,,Manali,HP,India,175131,-224144
+R026,GDS_A,Marriott Seoul Central,1 Main Street,,Seoul,Seoul,KR,28289,1
+R027,GDS_A,Marriott Seoul City Center,1 Main St,Downtown,Seoul,Seo,South Korea,28289,1
+R028,DIRECT_C,Hotel Marriott Seoul Cntrl,No. 1 Main Street,,Seoul,Seoul,KR,28289,1
+R029,OTA_B,Marriott Rome Central,1 Main Street,,Rome,RM,IT,88907,1
+R030,DIRECT_C,Marriott Rome City Center,1 Main St,Downtown,Rome,RM,Italy,88907,1
+R031,OTA_B,Hotel Marriott Rome Cntrl,No. 1 Main Street,,Rome,RM,IT,88907,1
+R032,DIRECT_C,Radisson Doha Central,1 Main Street,,Doha,Doha,QA,30926,1
+R033,OTA_C,Radisson Doha City Center,1 Main St,Downtown,Doha,Doh,Qatar,30926,1
+R034,OTA_C,Hotel Radisson Doha Cntrl,No. 1 Main Street,,Doha,Doha,QA,30926,1
+R035,GDS_A,Ibis Cape Town Central,1 Main Street,,Cape Town,Western Cape,ZA,22156,1
+R036,OTA_C,Ibis Cape Town City Center,1 Main St,Downtown,Cape Town,Wes,South Africa,22156,1
+R037,OTA_C,Hotel Ibis Cape Town Cntrl,No. 1 Main Street,,Cape Town,Western Cape,ZA,22156,1
+R038,OTA_C,Marriott Auckland Central,1 Main Street,,Auckland,Auckland,NZ,59615,1
+R039,OTA_C,Marriott Auckland City Center,1 Main St,Downtown,Auckland,Auc,New Zealand,59615,1
+R040,OTA_B,Hotel Marriott Auckland Cntrl,No. 1 Main Street,,Auckland,Auckland,NZ,59615,1
+R041,GDS_A,Marriott Vienna Central,1 Main Street,,Vienna,Vienna,AT,20458,1
+R042,DIRECT_C,Marriott Vienna City Center,1 Main St,Downtown,Vienna,Vie,Austria,20458,1
+R043,OTA_C,Hotel Marriott Vienna Cntrl,No. 1 Main Street,,Vienna,Vienna,AT,20458,1
+R044,OTA_C,Independent Doha Central,1 Main Street,,Doha,Doha,QA,56566,1
+R045,GDS_A,Independent Doha City Center,1 Main St,Downtown,Doha,Doh,Qatar,56566,1
+R046,OTA_B,Hotel Independent Doha Cntrl,No. 1 Main Street,,Doha,Doha,QA,56566,1
+R047,OTA_B,Ibis Montreal Central,1 Main Street,,Montreal,QC,CA,93886,1
+R048,OTA_C,Ibis Montreal City Center,1 Main St,Downtown,Montreal,QC,Canada,93886,1
+R049,GDS_A,Hotel Ibis Montreal Cntrl,No. 1 Main Street,,Montreal,QC,CA,93886,1
+R050,OTA_C,Marriott Chicago Central,1 Main Street,,Chicago,IL,US,18675,1
+R051,OTA_B,Marriott Chicago City Center,1 Main St,Downtown,Chicago,IL,USA,18675,1
+R052,DIRECT_C,Hotel Marriott Chicago Cntrl,No. 1 Main Street,,Chicago,IL,US,18675,1
+R053,OTA_C,Independent Hanoi Central,1 Main Street,,Hanoi,Hanoi,VN,42325,1
+R054,DIRECT_C,Independent Hanoi City Center,1 Main St,Downtown,Hanoi,Han,Vietnam,42325,1
+R055,DIRECT_C,Hotel Independent Hanoi Cntrl,No. 1 Main Street,,Hanoi,Hanoi,VN,42325,1
+R056,GDS_A,Ibis Copenhagen Central,1 Main Street,,Copenhagen,Hovedstaden,DK,74686,1
+R057,GDS_A,Ibis Copenhagen City Center,1 Main St,Downtown,Copenhagen,Hov,Denmark,74686,1
+R058,OTA_B,Hotel Ibis Copenhagen Cntrl,No. 1 Main Street,,Copenhagen,Hovedstaden,DK,74686,1
+R059,DIRECT_C,Independent Rio de Janeiro Central,1 Main Street,,Rio de Janeiro,RJ,BR,60019,1
+R060,OTA_C,Independent Rio de Janeiro City Center,1 Main St,Downtown,Rio de Janeiro,RJ,Brazil,60019,1
+R061,GDS_A,Hotel Independent Rio de Janeiro Cntrl,No. 1 Main Street,,Rio de Janeiro,RJ,BR,60019,1
+R062,GDS_A,Independent Seoul Central,1 Main Street,,Seoul,Seoul,KR,94012,1
+R063,OTA_C,Independent Seoul City Center,1 Main St,Downtown,Seoul,Seo,South Korea,94012,1
+R064,DIRECT_C,Hotel Independent Seoul Cntrl,No. 1 Main Street,,Seoul,Seoul,KR,94012,1
+R065,OTA_B,Sofitel Rio de Janeiro Central,1 Main Street,,Rio de Janeiro,RJ,BR,44522,1
+R066,GDS_A,Sofitel Rio de Janeiro City Center,1 Main St,Downtown,Rio de Janeiro,RJ,Brazil,44522,1
+R067,OTA_C,Hotel Sofitel Rio de Janeiro Cntrl,No. 1 Main Street,,Rio de Janeiro,RJ,BR,44522,1
+R068,GDS_A,Radisson Mexico City Central,1 Main Street,,Mexico City,CDMX,MX,31174,1
+R069,OTA_C,Radisson Mexico City City Center,1 Main St,Downtown,Mexico City,CDM,Mexico,31174,1
+R070,DIRECT_C,Hotel Radisson Mexico City Cntrl,No. 1 Main Street,,Mexico City,CDMX,MX,31174,1
+R071,GDS_A,Hilton Garden Inn Lisbon Central,1 Main Street,,Lisbon,Lisboa,PT,50306,1
+R072,OTA_B,Hilton Garden Inn Lisbon City Center,1 Main St,Downtown,Lisbon,Lis,Portugal,50306,1
+R073,GDS_A,Hotel Hilton Garden Inn Lisbon Cntrl,No. 1 Main Street,,Lisbon,Lisboa,PT,50306,1
+R074,OTA_B,Sofitel Vienna Central,1 Main Street,,Vienna,Vienna,AT,79822,1
+R075,DIRECT_C,Sofitel Vienna City Center,1 Main St,Downtown,Vienna,Vie,Austria,79822,1
+R076,OTA_B,Hotel Sofitel Vienna Cntrl,No. 1 Main Street,,Vienna,Vienna,AT,79822,1
+R077,OTA_B,DoubleTree Auckland Central,1 Main Street,,Auckland,Auckland,NZ,37760,1
+R078,OTA_C,DoubleTree Auckland City Center,1 Main St,Downtown,Auckland,Auc,New Zealand,37760,1
+R079,DIRECT_C,Hotel DoubleTree Auckland Cntrl,No. 1 Main Street,,Auckland,Auckland,NZ,37760,1
+R080,GDS_A,Sofitel Copenhagen Central,1 Main Street,,Copenhagen,Hovedstaden,DK,42493,1
+R081,OTA_C,Sofitel Copenhagen City Center,1 Main St,Downtown,Copenhagen,Hov,Denmark,42493,1
+R082,GDS_A,Hotel Sofitel Copenhagen Cntrl,No. 1 Main Street,,Copenhagen,Hovedstaden,DK,42493,1
+R083,OTA_B,Ibis Montreal Central,1 Main Street,,Montreal,QC,CA,92719,1
+R084,GDS_A,Ibis Montreal City Center,1 Main St,Downtown,Montreal,QC,Canada,92719,1
+R085,GDS_A,Hotel Ibis Montreal Cntrl,No. 1 Main Street,,Montreal,QC,CA,92719,1
+R086,OTA_B,Hilton Garden Inn Brussels Central,1 Main Street,,Brussels,BRU,BE,73624,1
+R087,DIRECT_C,Hilton Garden Inn Brussels City Center,1 Main St,Downtown,Brussels,BRU,Belgium,73624,1
+R088,OTA_B,Hotel Hilton Garden Inn Brussels Cntrl,No. 1 Main Street,,Brussels,BRU,BE,73624,1
+R089,DIRECT_C,Pullman Istanbul Central,1 Main Street,,Istanbul,Istanbul,TR,66498,1
+R090,DIRECT_C,Pullman Istanbul City Center,1 Main St,Downtown,Istanbul,Ist,Turkey,66498,1
+R091,DIRECT_C,Hotel Pullman Istanbul Cntrl,No. 1 Main Street,,Istanbul,Istanbul,TR,66498,1
+R092,OTA_C,Independent Rome Central,1 Main Street,,Rome,RM,IT,17944,1
+R093,GDS_A,Independent Rome City Center,1 Main St,Downtown,Rome,RM,Italy,17944,1
+R094,OTA_B,Hotel Independent Rome Cntrl,No. 1 Main Street,,Rome,RM,IT,17944,1
+R095,DIRECT_C,Ibis Los Angeles Central,1 Main Street,,Los Angeles,CA,US,34050,1
+R096,OTA_B,Ibis Los Angeles City Center,1 Main St,Downtown,Los Angeles,CA,USA,34050,1
+R097,GDS_A,Hotel Ibis Los Angeles Cntrl,No. 1 Main Street,,Los Angeles,CA,US,34050,1
+R098,GDS_A,DoubleTree Doha Central,1 Main Street,,Doha,Doha,QA,80855,1
+R099,OTA_B,DoubleTree Doha City Center,1 Main St,Downtown,Doha,Doh,Qatar,80855,1
+R100,OTA_B,Hotel DoubleTree Doha Cntrl,No. 1 Main Street,,Doha,Doha,QA,80855,1

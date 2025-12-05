@@ -1,0 +1,35 @@
+record_id,source_system,hotel_name,address_line1,address_line2,city,state,country,postal_code,phone_number
+R003,DIRECT_C,Hotel Marriot Bengaluru ORR,Outer Ring Road,,Bangalore,KA,IN,560103,-12345667
+R006,DIRECT_C,Holiday Inn Express Blr-Whitefield,ITPL Main Rd,,Bangalore,Karnataka,IN,560066,-99998877
+R009,OTA_C,Hilton London Heathrow T4 Hotel,Terminal 4 Heathrow,Hounslow,London,England,GB,TW6 3AF,-87589976
+R012,OTA_C,Courtyard by Marriott Times Square NY,114 W. 40th St.,Midtown,New York,NY,US,10018,-3910299
+R015,DIRECT_C,Hotel Ibis Paris Montmartre,5 Rue Caulaincourt,Montmartre,Paris,IDF,FR,75018,-55305968
+R018,OTA_C,Tokyo Park Hyatt,3-7-1-2 NishiShinjuku,,Tokyo,Tokyo,JP,163-1055,-53221156
+R020,OTA_B,The Oberoi Udaivilās,Haridas Ji Ki Magri,Lake Pichola,Udaipur,RJ,India,313001,-2433503
+R023,DIRECT_C,Sydney Shangri-La,176 Cumberland Street,,Sydney,NSW,AU,2000,-92505941
+R025,OTA_B,Green Valley Hotel Manali,Main Bzr Rd,,Manali,HP,India,175131,-224144
+R028,DIRECT_C,Hotel Marriott Seoul Cntrl,No. 1 Main Street,,Seoul,Seoul,KR,28289,1
+R031,OTA_B,Hotel Marriott Rome Cntrl,No. 1 Main Street,,Rome,RM,IT,88907,1
+R034,OTA_C,Hotel Radisson Doha Cntrl,No. 1 Main Street,,Doha,Doha,QA,30926,1
+R037,OTA_C,Hotel Ibis Cape Town Cntrl,No. 1 Main Street,,Cape Town,Western Cape,ZA,22156,1
+R040,OTA_B,Hotel Marriott Auckland Cntrl,No. 1 Main Street,,Auckland,Auckland,NZ,59615,1
+R043,OTA_C,Hotel Marriott Vienna Cntrl,No. 1 Main Street,,Vienna,Vienna,AT,20458,1
+R046,OTA_B,Hotel Independent Doha Cntrl,No. 1 Main Street,,Doha,Doha,QA,56566,1
+R049,GDS_A,Hotel Ibis Montreal Cntrl,No. 1 Main Street,,Montreal,QC,CA,93886,1
+R052,DIRECT_C,Hotel Marriott Chicago Cntrl,No. 1 Main Street,,Chicago,IL,US,18675,1
+R055,DIRECT_C,Hotel Independent Hanoi Cntrl,No. 1 Main Street,,Hanoi,Hanoi,VN,42325,1
+R058,OTA_B,Hotel Ibis Copenhagen Cntrl,No. 1 Main Street,,Copenhagen,Hovedstaden,DK,74686,1
+R061,GDS_A,Hotel Independent Rio de Janeiro Cntrl,No. 1 Main Street,,Rio de Janeiro,RJ,BR,60019,1
+R064,DIRECT_C,Hotel Independent Seoul Cntrl,No. 1 Main Street,,Seoul,Seoul,KR,94012,1
+R067,OTA_C,Hotel Sofitel Rio de Janeiro Cntrl,No. 1 Main Street,,Rio de Janeiro,RJ,BR,44522,1
+R070,DIRECT_C,Hotel Radisson Mexico City Cntrl,No. 1 Main Street,,Mexico City,CDMX,MX,31174,1
+R073,GDS_A,Hotel Hilton Garden Inn Lisbon Cntrl,No. 1 Main Street,,Lisbon,Lisboa,PT,50306,1
+R076,OTA_B,Hotel Sofitel Vienna Cntrl,No. 1 Main Street,,Vienna,Vienna,AT,79822,1
+R079,DIRECT_C,Hotel DoubleTree Auckland Cntrl,No. 1 Main Street,,Auckland,Auckland,NZ,37760,1
+R082,GDS_A,Hotel Sofitel Copenhagen Cntrl,No. 1 Main Street,,Copenhagen,Hovedstaden,DK,42493,1
+R085,GDS_A,Hotel Ibis Montreal Cntrl,No. 1 Main Street,,Montreal,QC,CA,92719,1
+R088,OTA_B,Hotel Hilton Garden Inn Brussels Cntrl,No. 1 Main Street,,Brussels,BRU,BE,73624,1
+R091,DIRECT_C,Hotel Pullman Istanbul Cntrl,No. 1 Main Street,,Istanbul,Istanbul,TR,66498,1
+R094,OTA_B,Hotel Independent Rome Cntrl,No. 1 Main Street,,Rome,RM,IT,17944,1
+R097,GDS_A,Hotel Ibis Los Angeles Cntrl,No. 1 Main Street,,Los Angeles,CA,US,34050,1
+R100,OTA_B,Hotel DoubleTree Doha Cntrl,No. 1 Main Street,,Doha,Doha,QA,80855,1
