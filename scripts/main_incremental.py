@@ -1,5 +1,3 @@
-# main_incremental.py
-
 from config import (
     CSV_PATH_INCREMENTAL,
     MODEL_NAME,
